@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "nama": "Kopi Robusta 250 g",
+        "kategori": "minuman",
+        "harga": 35000,
+        "gambar": "img/kopi.svg"
+    },
+    {
+        "id": 2,
+        "nama": "Roti Bakar Cokelat",
+        "kategori": "makanan",
+        "harga": 18000,
+        "gambar": "img/roti.svg"
+    },
+    {
+        "id": 3,
+        "nama": "Teh Melati 100 g",
+        "kategori": "minuman",
+        "harga": 22000,
+        "gambar": "img/teh.svg"
+    },
+    {
+        "id": 4,
+        "nama": "Sambal Bawang Botol",
+        "kategori": "makanan",
+        "harga": 27000,
+        "gambar": "img/sambal.svg"
+    },
+    {
+        
+         "id": 5,
+         "nama": "Pisang Cokelat",
+         "kategori": "makanan",
+         "harga": 15000,
+         "gambar": "img/pisang.svg"
+
+    },
+    {
+        "id": 6,
+        "nama": "Madu Hutan 500 ml",
+        "kategori": "minuman",
+        "harga": 95000,
+        "gambar": "img/madu.svg"
+    }
+]

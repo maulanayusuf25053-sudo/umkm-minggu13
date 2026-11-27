@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <rect width="320" height="200" fill="#fff0d5"/>
+  <ellipse cx="160" cy="145" rx="115" ry="20" fill="#dfc49d"/>
+  <path d="M65 130 Q55 65 110 55 Q160 25 210 55 Q265 65 255 130 Q245 155 160 155 Q75 155 65 130Z" fill="#c77b35"/>
+  <path d="M82 120 Q75 75 115 68 Q160 45 205 68 Q245 75 238 120 Q230 140 160 140 Q90 140 82 120Z" fill="#f5c477"/>
+  <path d="M115 85 Q160 65 205 85" fill="none" stroke="#75452b" stroke-width="9" stroke-linecap="round"/>
+  <path d="M125 105 Q160 90 195 105" fill="none" stroke="#75452b" stroke-width="8" stroke-linecap="round"/>
+  <text x="160" y="185" text-anchor="middle" font-size="16" fill="#75452b" font-weight="bold">ROTI BAKAR</text>
+</svg>

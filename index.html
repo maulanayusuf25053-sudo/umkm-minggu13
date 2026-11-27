@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Profil UMKM - Kopi Nusantara</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header class="site-header">
+        <p class="brand">Kopi Nusantara</p>
+        <p class="tagline">
+            Praktikum Pemrograman Web I - Minggu 13
+        </p>
+    </header>
+
+    <main>
+        <section class="panel">
+            <h1>Galeri Produk</h1>
+            <p class="hint">
+                Data produk dimuat menggunakan Fetch API.
+            </p>
+
+            <div class="toolbar">
+                <button type="button" id="btn-muat">Muat ulang</button>
+                <button type="button" id="btn-kosong">Uji data kosong</button>
+                <button type="button" id="btn-error">Uji error 404</button>
+            </div>
+
+            <p id="status-galeri" class="status"
+               role="status" aria-live="polite">
+                Menunggu data...
+            </p>
+
+            <p id="nama-terpilih" class="pilihan">
+                Klik gambar produk untuk melihat namanya di sini.
+            </p>
+
+            <div id="grid-produk" class="grid"></div>
+        </section>
+    </main>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>

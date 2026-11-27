@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <rect width="320" height="200" fill="#e8f1dc"/>
+  <ellipse cx="160" cy="150" rx="90" ry="15" fill="#bdcda9"/>
+  <path d="M105 75 L215 75 L205 145 Q160 165 115 145 Z" fill="#f9f5e8" stroke="#78945b" stroke-width="5"/>
+  <path d="M215 90 Q270 80 250 125 Q235 145 210 125" fill="none" stroke="#78945b" stroke-width="8"/>
+  <path d="M115 85 L205 85 L198 130 Q160 145 122 130 Z" fill="#a9c66b"/>
+  <path d="M145 65 Q130 40 150 25 M175 65 Q190 40 175 25" fill="none" stroke="#78945b" stroke-width="5" stroke-linecap="round"/>
+  <text x="160" y="185" text-anchor="middle" font-size="16" fill="#46613c" font-weight="bold">TEH MELATI</text>
+</svg>
